@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 <h3 align="center">Master's in Economics and Passionate Business Analyst</h3>
-<img align="right" alt="Coding" width="400" src="[https://giving.columbia.edu/what-can-policy-students-learn-data-analysis](https://media.istockphoto.com/id/1477243660/vector/flat-design-cartoon-illustration-business-analytics-concept.webp?s=2048x2048&w=is&k=20&c=xKsEW94OzM_VEs5onS_NdmYfzXjCcFXeYYMcqKbBFUg=)">
+<img align="right" alt="Coding" width="400" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/shutterstock_722751163-Converted.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drdjango&label=Profile%20views&color=0e75b6&style=flat" alt="drdjango" /> </p>
 
